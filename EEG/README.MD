@@ -1,0 +1,2 @@
+EEG Analysis with MNE-Python
+This repository contains Jupyter notebooks for EEG signal processing using MNE-Python. It covers data loading, visualization, filtering, artifact removal with ICA, and frequency analysis using Power Spectral Density (PSD). The project also includes a synthetic EEG signal generation for spectral analysis. Ideal for students and researchers in neuroscience and signal processing.
